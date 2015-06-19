@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MetaTech.Library.5</id>
+    <title>MetaTech.Library.5</title>
+    <authors>Serj-Tm</authors>
+    <owners>Serj-Tm</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MetaTech.Library</description>
+    <copyright>Copyright ©  2015</copyright>
+    <dependencies>
+      <dependency id="System.Collections.Immutable" version="1.1.36" />
+    </dependencies>
+  </metadata>
+</package>
