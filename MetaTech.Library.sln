@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaTech.Library.5", "MetaT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaTech.Library.Console", "MetaTech.Library.Console\MetaTech.Library.Console.csproj", "{268BDEC7-7C05-464E-AE86-B88AC0526592}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaTech.Library.4", "MetaTech.Library.4\MetaTech.Library.4.csproj", "{9A174DFC-A804-4CFD-A1DE-EF7CBF4F2FE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{268BDEC7-7C05-464E-AE86-B88AC0526592}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{268BDEC7-7C05-464E-AE86-B88AC0526592}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{268BDEC7-7C05-464E-AE86-B88AC0526592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A174DFC-A804-4CFD-A1DE-EF7CBF4F2FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A174DFC-A804-4CFD-A1DE-EF7CBF4F2FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A174DFC-A804-4CFD-A1DE-EF7CBF4F2FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A174DFC-A804-4CFD-A1DE-EF7CBF4F2FE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
